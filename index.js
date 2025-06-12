@@ -1,1 +1,1 @@
-console.log("Działa");
+function show(){console.log("Działa")};
